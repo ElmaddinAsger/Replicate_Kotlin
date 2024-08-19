@@ -1,3 +1,4 @@
+This project is shared here to be re-read, learnt and reinforced by writing from scratch more than once.
 # Replicate Kotlin Client
 
 Replicate-Kotlin is a wrapper around [Replicate’s API](https://replicate.com/), enabling you to interact with cloud-based AI models using pure Kotlin code. This library is designed to easily integrate generative AI into Android and other kotlin supported environments.
